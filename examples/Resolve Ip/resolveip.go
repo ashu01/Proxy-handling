@@ -26,3 +26,6 @@ func main() {
 	fmt.Println("Resolved address is ", addr.String())
 	os.Exit(0)
 }
+
+// go run resolveip.go ashutoshkg.mutohq.com
+// Resolved address is  188.166.255.177
